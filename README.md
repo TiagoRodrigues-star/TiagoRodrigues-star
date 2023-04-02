@@ -3,6 +3,7 @@
 <h3 align="center">A passionate data scientist from Portugal</h3>
 <br>
 <br>
+
 - 🌱 I’m currently learning **Tableau, Azure and AWS**
 
 - 👯 I’m looking to collaborate on [Web Scrapping data from Linkdin](https://github.com/TiagoRodrigues-star/Web_scrapper)
