@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on [Web Scrapping data from Linkdin](https://github.com/TiagoRodrigues-star/Web_scrapper)
 
-- 💬 Ask me about **Machine Learning, Databases,**
+- 💬 Ask me about **Machine Learning, Databases, ETL processes, Agile Methodologies**
 
 - 📫 How to reach me **tpr.geodata@gmail.com**
 
